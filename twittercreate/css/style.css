@@ -1,0 +1,56 @@
+/*
+css
+*/
+
+
+.twittercreatemenu {
+    /* color: black; */
+    font-weight: 600;
+}
+.readme{
+    padding-bottom: 20px;
+}
+
+.usecase{
+    font-size: 16px;
+}
+
+.usetext{
+    display: block;
+    margin-bottom: 5px;
+}
+
+.login{
+    color: lightseagreen;
+}
+
+.twittercreatesettinglogin{
+    width: 50%;
+    padding: 10px;
+
+}
+
+.twittercreatesetting{
+
+}
+
+.a8menu{
+    padding-bottom: 5px;
+    font-size: 18px;
+}
+
+.loginresult{
+    font-size: 14px;
+    color: greenyellow;
+}
+.result{
+    font-size: 14px;
+    color: deepskyblue;
+}
+
+
+.code{
+    width:50%;
+    padding: 5px;
+    border: 1px grey solid;
+}
