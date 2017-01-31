@@ -1,1 +1,2 @@
 # twittercreate
+ツイッターのキーワードを指定して記事を自動で作成、投稿するWordPressプラグイン
